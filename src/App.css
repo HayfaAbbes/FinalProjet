@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
+body {
+  margin: 0 !important;
+  font-family: "PT Sans", sans-serif !important;
+}
+.header-container {
+  margin: 0 8%;
+}
+.header {
+  margin: 2vh 0;
+}
+.redlogo {
+  width: 100px;
+}
+
+.navlink {
+  font-weight: 700 !important;
+}
+
+.pagecontainer {
+  height: 100vh;
+}
+.h1_home{
+  text-align: justify;
+  vertical-align: text-top;
+  text-size-adjust: 100;
+  size: 20px;
+
+  color: red;
+  text-decoration-style: double;
+
+  text-transform:  uppercase;
+  line-height: 1.5;
+  font-weight: 900;
+
+}
+.h1_white{
+  text-align: justify;
+  vertical-align: text-top;
+  text-size-adjust: 100;
+  size: 20px;
+
+  color:white;
+  text-decoration-style: double;
+
+  text-transform:  uppercase;
+  line-height: 1.5;
+  font-weight: 900;
+
+}
+.h5_white{
+  text-align: justify;
+  vertical-align: text-top;
+  text-size-adjust: 100;
+  size: 20px;
+  font-size:larger;
+
+  color:white;
+  text-decoration-style: double;
+
+  text-transform:  uppercase;
+  line-height: 1.5;
+  font-weight: 900;
+
+}
+.h4_home{
+  text-align: justify;
+  vertical-align: text-top;
+  text-size-adjust: 100;
+  size: 20px;
+
+  color:black;
+  text-decoration-style: double;
+
+  /*text-transform: capitalize;*/
+  line-height: 1.5;
+  font-weight:normal;
+}
+.button_home{
+ 
+  background-color: yellow;
+  color:red;
+  border-color: transparent;
+  border-radius: 0.5px;
+}
+.img_cpt{
+  
+  width: 100%; 
+  height: max-content;
+  border-top-left-radius: 8rem;
+ 
+}
+.img_concept{
+  
+  width: 99%;
+  height:auto;
+ 
+ 
+}
+.img_team{
+
+  width: 100%;
+  height: auto;
+}
+.img_cuisine{
+ 
+  width: 33%;
+  height: auto;
+}
+.p_concept{
+  text-align: justify;
+  vertical-align: text-top;
+  text-size-adjust: 100;
+ 
+  color:black;
+  text-decoration-style: double;
+
+  /*text-transform: capitalize;*/
+  line-height: 1;
+  font-weight:normal;
+}
+.p_white{
+  text-align: justify;
+  vertical-align: text-top;
+  text-size-adjust: 100;
+ 
+  color:white;
+  text-decoration-style: double;
+
+  /*text-transform: capitalize;*/
+  line-height: 1;
+  font-weight:normal
+}
+.button_pink{
+   border-radius: 2rem;
+  background-color: rgb(224, 40, 101);
+  color: white;
+  border-color: transparent;
+ 
+}
+.mvh-100 {
+  min-height: 50vh;
+}
+.mvh-90 {
+  min-height: 50vh;
+}
+.td_white{
+  text-align: justify;
+  vertical-align: text-top;
+  text-size-adjust: 100;
+  size: 20px;
+  font-size: small;
+
+  color:white;
+  text-decoration-style:normal;
+
+  text-transform:  uppercase;
+  line-height: 1;
+  font-weight: 20;
+
+}
